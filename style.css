@@ -56,8 +56,48 @@ p{
     grid-row: 3 ;
     width: 57px;
 }
-.e20:hover {
-    background-color: rgba(189, 14, 14, 0.37); /* Changer la couleur de fond au survol 
-    color: white;Changer la couleur du texte au survol */
+.e11:hover {
+    background-color: rgb(189, 126, 54);
 }
-
+.e12:hover {
+    background-color: rgb(189, 126, 54);
+}
+.e13:hover {
+    background-color: rgb(153, 85, 7);
+}
+.e14:hover {
+    background-color: rgb(153, 85, 7);
+}
+.e15:hover {
+    background-color: rgb(189, 126, 54);
+}
+.e16:hover {
+    background-color: rgb(189, 126, 54);
+}
+.e17:hover {
+    background-color: rgb(189, 126, 54);
+}
+.e19:hover {
+    background-color: rgb(189, 126, 54);
+}
+.e20:hover {
+    background-color: rgb(153, 85, 7);
+}
+.e21:hover {
+    background-color: rgb(216, 176, 130);
+}
+.e22:hover {
+    background-color: rgb(153, 85, 7);
+}
+.e23:hover {
+    background-color: rgb(153, 85, 7);
+}
+.e26:hover {
+    background-color: rgb(129, 2, 2);
+}
+.e29:hover {
+    background-color: rgb(129, 2, 2);
+}
+.e3:hover {
+    background-color: rgba(189, 14, 14, 0.37);
+}
